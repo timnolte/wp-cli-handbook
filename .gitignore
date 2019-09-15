@@ -6,3 +6,4 @@ vendor
 _drafts/
 bin/packages
 .*.swp
+tags*
